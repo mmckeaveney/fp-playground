@@ -1,0 +1,11 @@
+{
+  "name": "fp-playground",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:mmckeaveney/fp-playground.git",
+  "author": "Martin McKeaveney <martin_mckeaveney@rapid7.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ramda": "^0.24.1"
+  }
+}
